@@ -1,5 +1,5 @@
 print("scriptisnotwork")
- print("Welcome Salad X Hub")
+ print("Welcome Salad X Hub  Free Script ")
  local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
  local Window  = Library.CreateLib("Salad X Hub", "BloodTheme")
  local Tab     = Window:NewTab("notify the news") 
