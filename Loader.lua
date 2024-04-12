@@ -85,7 +85,7 @@ local SysemKeyyy = game.CoreGui:FindFirstChild("Loading")
 Main:TweenSize(UDim2.new(0,0,0,0),"Out","Quad",0.4,true)
 wait(0.4)
 SysemKeyyy:Destroy()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AkiraNusZ/ScriptX/main/ScriptInOhio.lua'))()-- You Script' 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/x2Androssy/LikeRainy/main/Loader.lua'))()-- You Script' 
 end)
 
 UICorner2.CornerRadius = UDim.new(0, 10)
